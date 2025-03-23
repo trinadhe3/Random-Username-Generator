@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Username Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Random Username Generator</h1>
+        
+        <label for="name">Enter Your Name (Optional):</label>
+        <input type="text" id="name" placeholder="Your Name...">
+        
+        <button id="generateBtn">Generate Username</button>
+        <p id="username"></p>
+    </div>
+</body>
+</html>
