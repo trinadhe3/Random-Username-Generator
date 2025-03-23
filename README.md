@@ -30,7 +30,7 @@ Deployment: Flask (Locally for now)
 
 1️⃣ **Clone the Repository:**  
 
-git clone https://github.com/your-username/Random-Username-Generator.git
+git clone https://github.com/trinadhe3/Random-Username-Generator.git
 cd Random-Username-Generator
 
 2️⃣ Install Dependencies:
