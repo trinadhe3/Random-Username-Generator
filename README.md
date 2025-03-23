@@ -43,9 +43,6 @@ python app.py
 
 Visit: http://127.0.0.1:5000/
 
-🔗 GitHub Repository
-📌 GitHub Repo
-
 📬 Contact Me
 📧 Email: grandhisilatrinadh@gmail.com
 🔗 LinkedIn: Trinadh Grandhisila
